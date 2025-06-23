@@ -41,8 +41,8 @@ export default function SocialLinks() {
 
       <a
         className="link"
-        href="https://www.instagram.com/d3xx0"
-        data-tippy-content="@d3xx0"
+        href="https://www.instagram.com/dexxo"
+        data-tippy-content="@dexxo"
       >
         <svg
           className="h-6 fill-current text-gray-600 hover:text-green-700"
